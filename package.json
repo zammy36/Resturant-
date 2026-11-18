@@ -1,0 +1,8 @@
+{
+  "name": "tadka-table-ordering",
+  "version": "1.0.0",
+  "description": "QR table ordering for restaurants: menu, kitchen display, waiter calls, bill split, reviews (no online payment)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "license": "MIT"
+}
